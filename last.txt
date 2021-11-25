@@ -1,0 +1,10 @@
+<span class="name">DfT-v0.29.2-Stable-Xiaomi-EAS.zip</span>
+<span class="date">2021-11-09</span>
+<span class="changelog">• Настройки приложения
+•• Кнопка применения скорости анимации на 0.83 теперь вызывает диалог с регулируемой вручную скоростью. Долгий клик по кнопке по прежнему делает сброс скорости до системной...
+• Спойлеры
+•• Улучшены вид и удобство, добавлены иконки категорий
+• Спойлеры и плитки
+•• Долгий клик по кнопке открытия настроек открывает диалог изменения скорости системных анимаций</span>
+<span class="type">Beta</span>
+<span class="downloadLink">https://sourceforge.net/projects/dft-builds/files/beta/DfT-v0.29.2-Stable-Xiaomi-EAS.zip/download</span>
